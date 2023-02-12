@@ -17,5 +17,5 @@
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [Postman Collections](https://github.com/nataliakatz/postman-collection)
+- [Postman Collections](https://github.com/nataliakatz/postman-collection](https://github.com/nataliakatz/postman-collection/tree/nataliakatz-patch-1)
 - [Automated tests](https://github.com/nataliakatz/main-website)
