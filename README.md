@@ -14,7 +14,7 @@
 ### Testing Documentation
 
 
-- [Checklists](https://github.com/artichokeee/checklist)
+- [Checklists](https://docs.google.com/document/d/1ER5DyzgaRdjg45QZ5xvqj5GBTA1ku2BGhnd6WAWlrqE/edit?usp=sharing)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://docs.google.com/document/d/1XojSQQwsqrjniEXpmDCyMIxK1AsL1hoM5dEx7VSoZI4/edit?usp=sharing)
 - [Postman Collections](https://github.com/nataliakatz/postman-collection/tree/nataliakatz-patch-1)
