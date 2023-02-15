@@ -1,4 +1,4 @@
-### Language and Tools
+
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -11,11 +11,5 @@
 
 
 
-### Testing Documentation
-
-
-- [Checklists](https://docs.google.com/document/d/1ER5DyzgaRdjg45QZ5xvqj5GBTA1ku2BGhnd6WAWlrqE/edit?usp=sharing)
-- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1qxbcUXbLniJZCMAZsnncCtOyuucNU5z0oqVDFgQMHVs/edit?usp=sharing)
-- [Bug-Reports](https://docs.google.com/document/d/1XojSQQwsqrjniEXpmDCyMIxK1AsL1hoM5dEx7VSoZI4/edit?usp=sharing)
 - [Postman Collections](https://github.com/nataliakatz/postman-collection/tree/nataliakatz-patch-1)
 - [Automated tests](https://github.com/nataliakatz/main-website)
