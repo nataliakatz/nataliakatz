@@ -1,3 +1,4 @@
+### Skills and Tools
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -9,7 +10,7 @@
 ![Header](https://img.shields.io/badge/Playwright-090909?style=for-the-badge&logo=playwright&logoColor=1d8d22)
 
 
-
+### Works
 
 - [Postman Collections](https://github.com/nataliakatz/postman-collection/tree/nataliakatz-patch-1)
 - [Automated tests](https://github.com/nataliakatz/main-website)
